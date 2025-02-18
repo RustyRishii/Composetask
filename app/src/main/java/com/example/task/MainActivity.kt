@@ -68,6 +68,7 @@ fun TaskCompleted (modifier : Modifier = Modifier, compliment: String, status: S
     }
 }
 
+
 @Preview(showBackground = true, showSystemUi = true)
 @Composable
 fun TaskThemePreview() {
